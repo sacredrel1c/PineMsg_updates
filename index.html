@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PineMsg - Pineapple Messenger</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fff8e1;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(135deg, #ffcc00, #ff8f00);
+            color: white;
+            text-align: center;
+            padding: 80px 20px;
+            border-bottom: 5px solid #c87f00;
+        }
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px #c87f00;
+        }
+        header p {
+            font-size: 1.2rem;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .feature {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #ffe082;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .feature:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+        .feature h3 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+            color: #ffa726;
+        }
+        .feature p {
+            font-size: 1rem;
+            color: #555;
+        }
+        .cta {
+            text-align: center;
+            margin-top: 40px;
+        }
+        .cta a {
+            display: inline-block;
+            padding: 15px 30px;
+            background: #ffa726;
+            color: white;
+            font-size: 1rem;
+            text-decoration: none;
+            border-radius: 30px;
+            transition: background 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .cta a:hover {
+            background: #ff8f00;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #ffc107;
+            color: #333;
+            margin-top: 40px;
+            border-top: 5px solid #ff8f00;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>PineMsg</h1>
+        <p>The Sweetest Messenger for Your Communication</p>
+    </header>
+    <div class="container">
+        <section class="features">
+            <div class="feature">
+                <h3>Fast Messaging</h3>
+                <p>Send messages instantly with unparalleled speed.</p>
+            </div>
+            <div class="feature">
+                <h3>Secure</h3>
+                <p>Your privacy is our top priority with end-to-end encryption.</p>
+            </div>
+            <div class="feature">
+                <h3>Cross-Platform</h3>
+                <p>Available on mobile, desktop, and web.</p>
+            </div>
+            <div class="feature">
+                <h3>Customizable</h3>
+                <p>Personalize your experience with themes and settings.</p>
+            </div>
+            <div class="feature">
+                <h3>Group Chats</h3>
+                <p>Connect with friends and family in vibrant group chats.</p>
+            </div>
+        </section>
+        <div class="cta">
+            <a href="#">Download PineMsg</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 PineMsg. The Sweetest Way to Stay Connected.</p>
+    </footer>
+</body>
+</html>
