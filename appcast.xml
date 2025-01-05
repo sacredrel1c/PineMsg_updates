@@ -9,6 +9,7 @@
       <title>Version 1.0.2</title>
       <description>Release 1.0.2</description>
       <pubDate>Sun,05 Jan 2025 15:00:00 +0000</pubDate>
+      <sparkle:security>false</sparkle:security>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_1.0.2.dmg"
         sparkle:version="1.0.2"
