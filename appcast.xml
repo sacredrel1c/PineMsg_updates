@@ -7,12 +7,12 @@
     <language>en</language>
     <item>
       <title>Version 1</title>
-      <description>Release 1.0.1</description>
-      <pubDate>Sun,05 Jan 2025 15:00:00 +0000</pubDate>
+      <description>Release 1.0.2</description>
+      <pubDate>Sun,06 Jan 2025 12:00:00 +0200</pubDate>
       <enclosure
-        url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_1.0.1.dmg"
-        sparkle:version="1.0.1"
-        length="6609371"
+        url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_1.0.2.dmg"
+        sparkle:version="1.0.2"
+        length="6614541"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
