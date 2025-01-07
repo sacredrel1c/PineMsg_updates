@@ -8,10 +8,18 @@
     <item>
       <title>Version 1.0.5</title>
       <description>
-        Release 1.0.5 \n
-        - Add online left recievers \n
-        - Fix updates tasks (collection) \n
-        - Fix updates photo/text in task-popup. \n
+        Release 1.0.5
+        - Add online left recievers
+        - Fix updates tasks (collection)
+        - Fix updates photo/text in task-popup.
+        <![CDATA[
+<h1>What's New in Version 2.0</h1>
+<ul>
+  <li>🚀 Major performance improvements</li>
+  <li>🛠 Fixed crashes on macOS Ventura</li>
+  <li>🌑 Added support for dark mode</li>
+</ul>
+]]>
       </description>
       <pubDate>Sun,07 Jan 2025 12:00:00 +0200</pubDate>
       <enclosure
