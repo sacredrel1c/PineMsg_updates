@@ -6,21 +6,21 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.6</title>
+      <title>Version 1.0.6.1</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 1.0.6</h1>
+          <h1>What's New in Version 1.0.6.1</h1>
           <ul>
-            <li>🛠 Fix income messages notification on dating </li>
-            <li>🛠 Fix tasks status update</li>
+            <li>🛠 Fix </li>
+            <li>🛠 Fix</li>
         </ul>
         ]]>
       </description>
       <pubDate>Sun,07 Jan 2025 12:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="1.0.6"
-        length="6633288"
+        sparkle:version="1.0.6.1"
+        length="6636447"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
