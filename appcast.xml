@@ -6,21 +6,21 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.6.2</title>
+      <title>Version 1.0.7</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 1.0.6.2</h1>
+          <h1>What's New in Version 1.0.7</h1>
           <ul>
-            <li>🛠 Fix concurency in tasksQueues</li>
-            <li>🛠 Fix</li>
+            <li>🛠 Fix request timeout to send aff letter</li>
+            <li>🛠 Fix send button on dating</li>
         </ul>
         ]]>
       </description>
-      <pubDate>Sun,07 Jan 2025 12:00:00 +0200</pubDate>
+      <pubDate>Sun,10 Jan 2025 12:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="1.0.6.2"
-        length="6638445"
+        sparkle:version="1.0.7"
+        length="6632199"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
