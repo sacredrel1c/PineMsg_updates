@@ -6,10 +6,10 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.8.2</title>
+      <title>Version 1.0.8.3</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 1.0.8.2</h1>
+          <h1>What's New in Version 1.0.8.3</h1>
           <ul>
             <li>🛠 Fix request timeout to send aff letter</li>
             <li>🛠 Fix refresh descriptions in tasks</li>
@@ -19,8 +19,8 @@
       <pubDate>Sun,13 Jan 2025 12:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="1.0.8.2"
-        length="5901513"
+        sparkle:version="1.0.8.3"
+        length="5903590"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
