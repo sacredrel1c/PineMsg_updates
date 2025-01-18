@@ -6,21 +6,21 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.9</title>
+      <title>Version 0.0.9.1</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 1.0.9</h1>
+          <h1>What's New in Version 0.0.9.1</h1>
           <ul>
             <li>🛠 Add Stories on Dating</li>
             <li>🛠 Fix refresh descriptions in tasks</li>
         </ul>
         ]]>
       </description>
-      <pubDate>Sun,18 Jan 2025 12:00:00 +0200</pubDate>
+      <pubDate>Sun,18 Jan 2025 15:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="1.0.9"
-        length="5901967"
+        sparkle:version="0.0.9.1"
+        length="5903257"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
