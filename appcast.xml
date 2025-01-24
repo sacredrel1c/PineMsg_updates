@@ -6,20 +6,22 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.10.0</title>
+      <title>Version 0.10.1</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.10.0</h1>
+          <h1>What's New in Version 0.10.1</h1>
           <ul>
-            <li>🛠 Add Camera Switch</li>
+            <li>🛠 Add Gifts Switch</li>
+            <li>🛠 Fix select video in tasks</li>
+            <li>🛠 Add support to upload video in mail(Aff,Dat) and invites(Dat)</li>
         </ul>
         ]]>
       </description>
-      <pubDate>Sun,24 Jan 2025 01:00:00 +0200</pubDate>
+      <pubDate>Sun,24 Jan 2025 19:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.10.0"
-        length="5914382"
+        sparkle:version="0.10.1"
+        length="5917736"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
