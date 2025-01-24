@@ -6,22 +6,20 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.10.1</title>
+      <title>Version 0.10.2</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.10.1</h1>
+          <h1>What's New in Version 0.10.2</h1>
           <ul>
-            <li>🛠 Add Gifts Switch</li>
-            <li>🛠 Fix select video in tasks</li>
-            <li>🛠 Add support to upload video in mail(Aff,Dat) and invites(Dat)</li>
+            <li>🛠 Fix soulmate and invite priority Status in invite Tasks</li>
         </ul>
         ]]>
       </description>
       <pubDate>Sun,24 Jan 2025 19:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.10.1"
-        length="5917736"
+        sparkle:version="0.10.2"
+        length="5923934"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
