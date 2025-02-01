@@ -6,20 +6,22 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.10.5</title>
+      <title>Version 0.10.6</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.10.5</h1>
+          <h1>What's New in Version 0.10.6</h1>
           <ul>
-            <li>🛠 Add placeholders to invite and letters {name}, {hello}</li>
+            <li>🛠 Add trash icons to mails</li>
+            <li>🛠 Add activations</li>
+            <li>🛠 Add reload Button</li>
         </ul>
         ]]>
       </description>
-      <pubDate>Sun,26 Jan 2025 19:00:00 +0200</pubDate>
+      <pubDate>Sat,01 Feb 2025 19:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.10.5"
-        length="5926612"
+        sparkle:version="0.10.6"
+        length="6003236"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
