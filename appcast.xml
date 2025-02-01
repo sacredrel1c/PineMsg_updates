@@ -6,20 +6,20 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.10.7</title>
+      <title>Version 0.10.8</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.10.7</h1>
+          <h1>What's New in Version 0.10.8</h1>
           <ul>
-            <li>🛠 Fix select profile when click on notifications</li>
+            <li>🛠 Fix crashes</li>
         </ul>
         ]]>
       </description>
-      <pubDate>Sat,01 Feb 2025 19:00:00 +0200</pubDate>
+      <pubDate>Sun,02 Feb 2025 00:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.10.7"
-        length="6006474"
+        sparkle:version="0.10.8"
+        length="6007602"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
