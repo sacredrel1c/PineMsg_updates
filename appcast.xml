@@ -6,21 +6,21 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.10.9</title>
+      <title>Version 0.10.9.1</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.10.9</h1>
+          <h1>What's New in Version 0.10.9.1</h1>
           <ul>
-            <li>🛠 Fixed fail-login to Dating.com</li>
-            <li>🪄 Add Support login to Dating-satelites (Amolatina, AsianDate, ArabianDate...)</li>
+            <li>🛠 Add sound to complete tasks</li>
+            <li>Add Debug prints...</li>
         </ul>
         ]]>
       </description>
       <pubDate>Sun,03 Feb 2025 20:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.10.9"
-        length="6006667"
+        sparkle:version="0.10.9.1"
+        length="6015961"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
