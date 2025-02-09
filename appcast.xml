@@ -6,21 +6,25 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.10.9.1</title>
+      <title>Version 0.10.9.2</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.10.9.1</h1>
+          <h1>What's New in Version 0.10.9.2</h1>
           <ul>
-            <li>🛠 Add sound to complete tasks</li>
-            <li>Add Debug prints...</li>
+            <li>🛠 Add sound to incoming mail on Affiliact</li>
+            <li>🛠 Add sorting tasks by date of last running</li>
+            <li>🛠 Fix {name}, if Guest - change to empty space, if name present - change to name.</li>
+            <li>🛠 Fix {hello} - add many variants, delete few words.../li>
+            <li>🛠 Fixed video sending in mail of Affiliact</li>
+            <li>🛠 Add tag name on tasks (Mail+Invites)</li>
         </ul>
         ]]>
       </description>
-      <pubDate>Sun,03 Feb 2025 20:00:00 +0200</pubDate>
+      <pubDate>Sun,09 Feb 2025 20:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.10.9.1"
-        length="6015961"
+        sparkle:version="0.10.9.2"
+        length="6064916"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
