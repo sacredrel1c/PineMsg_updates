@@ -6,20 +6,21 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.10.9.4</title>
+      <title>Version 0.10.9.5</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.10.9.4</h1>
+          <h1>What's New in Version 0.10.9.5</h1>
           <ul>
-            <li>🛠 Add Copy/Paste in Black/White List</li>
+            <li>🛠 Rework modal windows to separate window/li>
+            <li>🛠 Fix add new profiles/li>
         </ul>
         ]]>
       </description>
-      <pubDate>Sun,11 Feb 2025 20:00:00 +0200</pubDate>
+      <pubDate>Fri,14 Feb 2025 20:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.10.9.4"
-        length="6093461"
+        sparkle:version="0.10.9.5"
+        length="6083510"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
