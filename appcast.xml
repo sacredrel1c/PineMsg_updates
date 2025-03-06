@@ -6,22 +6,22 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.10.9.7</title>
+      <title>Version 0.11</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.10.9.7</h1>
+          <h1>What's New in Version 0.11</h1>
           <ul>
-            <li>🛠 Fix showing Let's Mingle status/li>
-            <li>🛠 Fix offline mode/li>
-            <li>🛠 Add frameworks to fake-cycled-camera, implementation in future updates./li>
+            <li>🛠 Implement cycled video fake cam/li>
+            <li>🛠 minor fix affiliact/li>
+            <li>🛠 minor fix dating/li>
         </ul>
         ]]>
       </description>
-      <pubDate>Fri,25 Feb 2025 12:00:00 +0200</pubDate>
+      <pubDate>Thu,06 Mar 2025 18:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.10.9.7"
-        length="21385810"
+        sparkle:version="0.11"
+        length="19295105"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
