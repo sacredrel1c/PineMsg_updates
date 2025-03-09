@@ -6,22 +6,21 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.11</title>
+      <title>Version 0.12</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.11</h1>
+          <h1>What's New in Version 0.12</h1>
           <ul>
-            <li>🛠 Implement cycled video fake cam/li>
-            <li>🛠 minor fix affiliact/li>
-            <li>🛠 minor fix dating/li>
+            <li>🛠 Improve load speed by using Cache support, avaliable for MacOS > 14.0/li>
+            <li>🛠 refactor db to sync tasks with server/li>
         </ul>
         ]]>
       </description>
-      <pubDate>Thu,06 Mar 2025 18:00:00 +0200</pubDate>
+      <pubDate>Thu,09 Mar 2025 18:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.11"
-        length="19295105"
+        sparkle:version="0.12"
+        length="19305881"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
