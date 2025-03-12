@@ -6,21 +6,21 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.12</title>
+      <title>Version 0.13</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.12</h1>
+          <h1>What's New in Version 0.13</h1>
           <ul>
-            <li>🛠 Improve load speed by using Cache support, avaliable for MacOS > 14.0/li>
-            <li>🛠 refactor db to sync tasks with server/li>
+            <li>🛠 Fix microphone and webcam use separately on dating   </li>
+            <li>🛠 Add sync system to sync tasks with server data-store (invites and mails), sync only tasks NOT media (photos,videos,audio)   </li>
         </ul>
         ]]>
       </description>
       <pubDate>Thu,09 Mar 2025 18:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.12"
-        length="19305881"
+        sparkle:version="0.13"
+        length="19327067"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
