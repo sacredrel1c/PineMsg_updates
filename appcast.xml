@@ -6,20 +6,21 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.14.1</title>
+      <title>Version 0.14.2</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.14.1</h1>
+          <h1>What's New in Version 0.14.2</h1>
           <ul>
-            <li>🛠 Emergency fix new users</li>
+            <li>🛠 Fix recieve sync updated tasks</li>
+            <li>🛠 Add support sending statistics to server</li>
           </ul>
         ]]>
       </description>
-      <pubDate>Thu,09 Mar 2025 18:00:00 +0200</pubDate>
+      <pubDate>Thu,18 Mar 2025 18:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.14.1"
-        length="19324868"
+        sparkle:version="0.14.2"
+        length="19341420"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
