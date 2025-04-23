@@ -6,12 +6,12 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.14.6</title>
+      <title>Version 0.14.7</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.14.6</h1>
+          <h1>What's New in Version 0.14.7</h1>
           <ul>
-            <li>🛠 Add selection of sound notifications</li>
+            <li>🛠 Improve Perfomance</li>
             <li>🛠 Improve Stability</li>
           </ul>
         ]]>
@@ -19,8 +19,8 @@
       <pubDate>Thu,31 Mar 2025 18:00:00 +0200</pubDate>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.14.6"
-        length="19650431"
+        sparkle:version="0.14.7"
+        length="19668367"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
