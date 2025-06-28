@@ -6,20 +6,19 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.15.6</title>
+      <title>Version 0.15.7</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.15.6</h1>
+          <h1>What's New in Version 0.15.7</h1>
           <ul>
-            <li>🛠 Fix stopping Let's Mingle</li>
-            <li>🛠 Add highlight to profile when exist active chat</li>
+            <li>🛠 Fix restriction off 100 contacts on Dating.com</li>
           </ul>
         ]]>
       </description>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.15.6"
-        length="19650304"
+        sparkle:version="0.15.7"
+        length="19643770"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
