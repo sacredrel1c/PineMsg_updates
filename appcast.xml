@@ -6,21 +6,19 @@
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.15.8</title>
+      <title>Version 0.15.9</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.15.8</h1>
+          <h1>What's New in Version 0.15.9</h1>
           <ul>
-            <li>🛠 Improve algo send mails on Affiliact</li>
-            <li>🛠 Simplify blacklist interface</li>
-            <li>🛠 Trim whitespaces and newlines in login fields</li>
+            <li>🛠 Add Audio upload feature</li>
           </ul>
         ]]>
       </description>
       <enclosure
         url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.15.8"
-        length="19650166"
+        sparkle:version="0.15.9"
+        length="19650795"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
