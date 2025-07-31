@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>PineMsg Updates</title>
-    <link>https://sacredrel1c.github.io/PineMsg_updates/</link>
+    <link>https://files.pinemsg.pp.ua/</link>
     <description>Latest updates for PineMsg</description>
     <language>en</language>
     <item>
-      <title>Version 0.15.9</title>
+      <title>Version 0.16</title>
       <description>
         <![CDATA[
-          <h1>What's New in Version 0.15.9</h1>
+          <h1>What's New in Version 0.16</h1>
           <ul>
-            <li>🛠 Add Audio upload feature</li>
+            <li>🛠 Minor fixes</li>
           </ul>
         ]]>
       </description>
       <enclosure
-        url="https://sacredrel1c.github.io/PineMsg_updates/PineMsg_latest.dmg"
-        sparkle:version="0.15.9"
-        length="19650795"
+        url="https://files.pinemsg.pp.ua/PineMsg_latest.dmg"
+        sparkle:version="0.16"
+        length="19650772"
         type="application/x-apple-diskimage"/>
     </item>
   </channel>
